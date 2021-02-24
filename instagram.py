@@ -113,6 +113,6 @@ print("***************FUNS***************")
 for j in hayranlarin:
     print(j)
 
-print("**************THE ONES YOU FUN OF**************")
+print("**************THE ONES YOU ARE FUN OF**************")
 for g in hayranolduklarin:
     print(g)
